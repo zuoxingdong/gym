@@ -1,5 +1,3 @@
-from __future__ import print_function
-
 import gym
 from gym import wrappers, logger
 import numpy as np
